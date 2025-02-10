@@ -52,8 +52,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Exp
 
 ## Demo
 You can watch the demo video below:
-
-![Demo Video](https://www.canva.com/design/DAGeraLOQeQ/1EvAecj8lzUUoRjI8vYUeA/watch?utm_content=DAGeraLOQeQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4be7c23dd1)
+[Video](https://www.canva.com/design/DAGeraLOQeQ/1EvAecj8lzUUoRjI8vYUeA/watch)
 
 ## License
 This project is licensed under the MIT License.
